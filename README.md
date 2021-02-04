@@ -1,4 +1,4 @@
-# PotrosackaKorpa
+
 Kreirati abstraktnu klasu Ambalaza koja ima:
 barkod (primer: 328232-2823)
 naziv artikla
