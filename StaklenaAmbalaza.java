@@ -53,8 +53,7 @@ public class StaklenaAmbalaza extends Ambalaza {
 
 	@Override
 	public double cenaArtikla() {
-		boolean k = true;
-		if (k) {
+		if (this.daLiSePlaca) {
 			return this.osnovna * 1.2 + this.kaucija;
 		}
 		return this.osnovna * 1.2;
